@@ -1,4 +1,4 @@
-FROM alpine:3.14
+FROM alpine:latest
 LABEL maintainer "Andre Peters <andre.peters@servercow.de>"
 
 ENV XTABLES_LIBDIR /usr/lib/xtables
