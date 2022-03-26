@@ -1,4 +1,4 @@
-FROM alpine:3.14
+FROM alpine:latest
 LABEL maintainer "Andre Peters <andre.peters@servercow.de>"
 
 WORKDIR /app
