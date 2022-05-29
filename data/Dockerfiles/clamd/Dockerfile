@@ -1,4 +1,4 @@
-FROM debian:buster-slim
+FROM debian:10.12-slim
 
 LABEL maintainer "André Peters <andre.peters@servercow.de>"
 
